@@ -1,4 +1,4 @@
-//import com.monotonic.collections.common.Product;
+import common.Product;
 
 import java.util.Arrays;
 
